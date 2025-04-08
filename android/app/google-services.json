@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475834097247",
+    "project_id": "inclassact13",
+    "storage_bucket": "inclassact13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475834097247:android:31495d2a2734603afe85ea",
+        "android_client_info": {
+          "package_name": "com.example.inclassact13"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7cSjaJqtUCMJOft-gD-c1sHCv9UdAsiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
